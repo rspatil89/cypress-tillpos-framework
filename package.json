@@ -1,0 +1,22 @@
+{
+  "name": "cypress-tillpos-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rspatil89/cypress-tillpos-framework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rspatil89/cypress-tillpos-framework/issues"
+  },
+  "homepage": "https://github.com/rspatil89/cypress-tillpos-framework#readme",
+  "dependencies": {
+    "cypress": "^9.5.4"
+  }
+}
